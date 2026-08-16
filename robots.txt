@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-28vf6n.saturadar88.online/sitemap.xml
